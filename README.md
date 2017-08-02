@@ -1,5 +1,5 @@
 # nware
-Python payload generator and listener
+Python reverse-tcp payload generator and listener
 
 # Usage:
 Option 1 - Generate a payload, instructions are pretty self-explanatory. Note that when setting a name, a .py extension is not required.
